@@ -1,5 +1,7 @@
 .App{
-    min-height:800px;
+    padding-top: 5%;
+    min-height:1000px;
+    max-height: 100%;
     display: flex;
     background-image: url('./../pics/wallpaper.jpg');
     background-size: cover;
